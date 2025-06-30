@@ -52,7 +52,7 @@ NFC 리더기는 아두이노를 제작하였습니다.
 
 **푸쉬 알림**
 - **Firebase Cloud Messaging(FCM)** 으로 푸시 알림 서버 구현
-- **출석 이벤트 발생시** 해당 학원생의 학부모에게 실시간 알림 전송
+- **출석 이벤트 발생 시** 해당 학원생의 학부모에게 실시간 알림 전송
 
 ## 프로젝트 소스 코드
 https://github.com/orgs/k-vertex/repositories
