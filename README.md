@@ -57,4 +57,4 @@ NFC 리더기 개발, 출결 관리, 푸쉬 알림, 게시판 기능 등을 구�
 - **출석 이벤트 발생 시** 해당 학원생의 학부모에게 실시간 알림 전송
 
 # 프로젝트 소스 코드
-https://github.com/orgs/k-vertex/repositories
+[checkmate](https://github.com/orgs/k-vertex/repositories)
